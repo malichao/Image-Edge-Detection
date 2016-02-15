@@ -5,17 +5,17 @@ Program snapshot.It's currently in Chinese but I'll translate the program soon.
 ![alt tag](https://github.com/malichao/Image_Edge_Detection/blob/master/snapshot/software.jpg)  
 
 And here are some of the test results.  
-**Prewitt Algorithm**
-![alt tag](https://github.com/malichao/Image_Edge_Detection/blob/master/snapshot/07.jpg)  
-![alt tag](https://github.com/malichao/Image_Edge_Detection/blob/master/snapshot/edge/07_prewitt_bool.jpg)  
+**Sobel Algorithm,with Gaussian white noise**
+![alt tag](https://github.com/malichao/Image_Edge_Detection/blob/master/snapshot/test4_高斯噪声1.jpg)  
+![alt tag](https://github.com/malichao/Image_Edge_Detection/blob/master/snapshot/edge/test4_高斯噪声1_sobel_bool.jpg)   
 
 **Canny Algorithm**
 ![alt tag](https://github.com/malichao/Image_Edge_Detection/blob/master/snapshot/green-train-4001.jpg)  
 ![alt tag](https://github.com/malichao/Image_Edge_Detection/blob/master/snapshot/edge/green-train-4001_canny.jpg)  
 
-**Sobel Algorithm,with Gaussian white noise**
-![alt tag](https://github.com/malichao/Image_Edge_Detection/blob/master/snapshot/test4_高斯噪声1.jpg)  
-![alt tag](https://github.com/malichao/Image_Edge_Detection/blob/master/snapshot/edge/test4_高斯噪声1_sobel_bool.jpg)   
+**Prewitt Algorithm**
+![alt tag](https://github.com/malichao/Image_Edge_Detection/blob/master/snapshot/07.jpg)  
+![alt tag](https://github.com/malichao/Image_Edge_Detection/blob/master/snapshot/edge/07_prewitt_bool.jpg)  
 
 Also I'm trying to write a post about these algorithms and how I implemented them.Check out my [website](http://lichaoma.com/).
 
