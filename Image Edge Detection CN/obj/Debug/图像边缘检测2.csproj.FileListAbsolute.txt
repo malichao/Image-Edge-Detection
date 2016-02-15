@@ -1,0 +1,10 @@
+F:\Malcontent工作室\图像边缘检测\李玥羲的毕设\图像边缘检测\图像边缘检测2\图像边缘检测\bin\Debug\图像边缘检测.exe
+F:\Malcontent工作室\图像边缘检测\李玥羲的毕设\图像边缘检测\图像边缘检测2\图像边缘检测\bin\Debug\图像边缘检测.pdb
+F:\Malcontent工作室\图像边缘检测\李玥羲的毕设\图像边缘检测\图像边缘检测2\图像边缘检测\obj\Debug\ResolveAssemblyReference.cache
+F:\Malcontent工作室\图像边缘检测\李玥羲的毕设\图像边缘检测\图像边缘检测2\图像边缘检测\obj\Debug\图像边缘检测.Form1.resources
+F:\Malcontent工作室\图像边缘检测\李玥羲的毕设\图像边缘检测\图像边缘检测2\图像边缘检测\obj\Debug\图像边缘检测.Properties.Resources.resources
+F:\Malcontent工作室\图像边缘检测\李玥羲的毕设\图像边缘检测\图像边缘检测2\图像边缘检测\obj\Debug\图像边缘检测2.csproj.GenerateResource.Cache
+F:\Malcontent工作室\图像边缘检测\李玥羲的毕设\图像边缘检测\图像边缘检测2\图像边缘检测\obj\Debug\图像边缘检测.exe
+F:\Malcontent工作室\图像边缘检测\李玥羲的毕设\图像边缘检测\图像边缘检测2\图像边缘检测\obj\Debug\图像边缘检测.pdb
+F:\Malcontent工作室\图像边缘检测\李玥羲的毕设\图像边缘检测\图像边缘检测3\图像边缘检测\obj\Debug\图像边缘检测.exe
+F:\Malcontent工作室\图像边缘检测\李玥羲的毕设\图像边缘检测\图像边缘检测3\图像边缘检测\obj\Debug\图像边缘检测.pdb

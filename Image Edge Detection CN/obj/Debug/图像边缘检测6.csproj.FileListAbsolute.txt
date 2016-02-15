@@ -1,0 +1,27 @@
+F:\Malcontent工作室\图像边缘检测\程序\图像边缘检测\图像边缘检测6\图像边缘检测\bin\Debug\图像边缘检测.exe
+F:\Malcontent工作室\图像边缘检测\程序\图像边缘检测\图像边缘检测6\图像边缘检测\bin\Debug\图像边缘检测.pdb
+F:\Malcontent工作室\图像边缘检测\程序\图像边缘检测\图像边缘检测6\图像边缘检测\obj\Debug\ResolveAssemblyReference.cache
+F:\Malcontent工作室\图像边缘检测\程序\图像边缘检测\图像边缘检测6\图像边缘检测\obj\Debug\图像边缘检测.Form1.resources
+F:\Malcontent工作室\图像边缘检测\程序\图像边缘检测\图像边缘检测6\图像边缘检测\obj\Debug\图像边缘检测6.csproj.GenerateResource.Cache
+F:\Malcontent工作室\图像边缘检测\程序\图像边缘检测\图像边缘检测6\图像边缘检测\obj\Debug\图像边缘检测.exe
+F:\Malcontent工作室\图像边缘检测\程序\图像边缘检测\图像边缘检测6\图像边缘检测\obj\Debug\图像边缘检测.pdb
+F:\Malcontent工作室\图像边缘检测\程序\图像边缘检测\图像边缘检测6\图像边缘检测\obj\Debug\图像边缘检测.Form2.resources
+C:\Users\admin\Desktop\图像边缘检测\程序\图像边缘检测\图像边缘检测6\图像边缘检测\obj\Debug\图像边缘检测.exe
+C:\Users\admin\Desktop\图像边缘检测\程序\图像边缘检测\图像边缘检测6\图像边缘检测\obj\Debug\图像边缘检测.pdb
+C:\Users\admin\Desktop\图像边缘检测\程序\图像边缘检测\图像边缘检测6\图像边缘检测\bin\Debug\图像边缘检测.exe
+C:\Users\admin\Desktop\图像边缘检测\程序\图像边缘检测\图像边缘检测6\图像边缘检测\bin\Debug\图像边缘检测.pdb
+C:\Users\admin\Desktop\图像边缘检测\程序\图像边缘检测\图像边缘检测6\图像边缘检测\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\admin\Desktop\图像边缘检测\程序\图像边缘检测\图像边缘检测6\图像边缘检测\obj\Debug\图像边缘检测.Form1.resources
+C:\Users\admin\Desktop\图像边缘检测\程序\图像边缘检测\图像边缘检测6\图像边缘检测\obj\Debug\图像边缘检测.Form2.resources
+C:\Users\admin\Desktop\图像边缘检测\程序\图像边缘检测\图像边缘检测6\图像边缘检测\obj\Debug\李玥羲.Properties.Resources.resources
+C:\Users\admin\Desktop\图像边缘检测\程序\图像边缘检测\图像边缘检测6\图像边缘检测\obj\Debug\图像边缘检测6.csproj.GenerateResource.Cache
+F:\Malcontent工作室\图像边缘检测\程序\图像边缘检测\图像边缘检测6\图像边缘检测\obj\Debug\liyuexi.Properties.Resources.resources
+C:\MalcStudio\Image Edge Detect\图像边缘检测6\图像边缘检测\obj\Debug\图像边缘检测.exe
+C:\MalcStudio\Image Edge Detect\图像边缘检测6\图像边缘检测\obj\Debug\图像边缘检测.pdb
+C:\MalcStudio\Image Edge Detect\图像边缘检测6\图像边缘检测\bin\Debug\图像边缘检测.exe
+C:\MalcStudio\Image Edge Detect\图像边缘检测6\图像边缘检测\bin\Debug\图像边缘检测.pdb
+C:\MalcStudio\Image Edge Detect\图像边缘检测6\图像边缘检测\obj\Debug\图像边缘检测6.csprojResolveAssemblyReference.cache
+C:\MalcStudio\Image Edge Detect\图像边缘检测6\图像边缘检测\obj\Debug\图像边缘检测.Form1.resources
+C:\MalcStudio\Image Edge Detect\图像边缘检测6\图像边缘检测\obj\Debug\图像边缘检测.Form2.resources
+C:\MalcStudio\Image Edge Detect\图像边缘检测6\图像边缘检测\obj\Debug\liyuexi.Properties.Resources.resources
+C:\MalcStudio\Image Edge Detect\图像边缘检测6\图像边缘检测\obj\Debug\图像边缘检测6.csproj.GenerateResource.Cache
