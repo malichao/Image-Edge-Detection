@@ -1,4 +1,4 @@
-# Image_Edge_Detection
+# Image Edge Detection
 This project is my further study for image edge dection algorithm from [Building a Race Car project](http://lichaoma.com/2015/11/17/self-balancing-smart-car-based-on-freescale-mc9s12x128/).In this project,all the classical image detection algorithms are evaluated,namely Robert,Sobel,Prewiit,Laplacian,and Canny algorithm.Three filters are vailable to reduce the image noise,namely average filter,median value filter,and Gaussian filter.You can also sharpen,undo,binarize,and save the image.  
 
 Program snapshot.It's currently in Chinese but I'll translate the program soon.  
