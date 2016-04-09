@@ -61,21 +61,11 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
-    <Compile Include="Form2.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Form2.Designer.cs">
-      <DependentUpon>Form2.cs</DependentUpon>
-    </Compile>
     <Compile Include="HiPerfTimer.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Form2.resx">
-      <DependentUpon>Form2.cs</DependentUpon>
-      <SubType>Designer</SubType>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -98,22 +88,10 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <None Include="back1.jpg" />
     <Content Include="edge.ico" />
-    <None Include="jpg\back7-1.bmp" />
-    <None Include="jpg\back7.bmp" />
-    <None Include="jpg\back6-1.bmp" />
-    <None Include="jpg\back6.bmp" />
-    <None Include="jpg\back5-1.bmp" />
-    <None Include="jpg\back5.bmp" />
-    <None Include="jpg\back4-1.bmp" />
-    <None Include="jpg\back4.bmp" />
-    <None Include="jpg\back3-1.bmp" />
-    <None Include="jpg\back3.bmp" />
-    <None Include="jpg\back2-1.bmp" />
-    <None Include="jpg\back2.bmp" />
-    <None Include="jpg\back1.bmp" />
-    <None Include="jpg\back1-1.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="jpg\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

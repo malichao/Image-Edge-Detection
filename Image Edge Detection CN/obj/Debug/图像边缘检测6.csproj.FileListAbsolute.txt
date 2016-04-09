@@ -25,3 +25,11 @@ C:\MalcStudio\Image Edge Detect\图像边缘检测6\图像边缘检测\obj\Debug
 C:\MalcStudio\Image Edge Detect\图像边缘检测6\图像边缘检测\obj\Debug\图像边缘检测.Form2.resources
 C:\MalcStudio\Image Edge Detect\图像边缘检测6\图像边缘检测\obj\Debug\liyuexi.Properties.Resources.resources
 C:\MalcStudio\Image Edge Detect\图像边缘检测6\图像边缘检测\obj\Debug\图像边缘检测6.csproj.GenerateResource.Cache
+C:\MalcStudio\Image Edge Detect\Image Edge Detection CN\obj\Debug\图像边缘检测.exe
+C:\MalcStudio\Image Edge Detect\Image Edge Detection CN\obj\Debug\图像边缘检测.pdb
+C:\MalcStudio\Image Edge Detect\Image Edge Detection CN\obj\Debug\图像边缘检测6.csprojResolveAssemblyReference.cache
+C:\MalcStudio\Image Edge Detect\Image Edge Detection CN\obj\Debug\图像边缘检测.Form1.resources
+C:\MalcStudio\Image Edge Detect\Image Edge Detection CN\obj\Debug\图像边缘检测6.csproj.GenerateResource.Cache
+C:\MalcStudio\Image Edge Detect\Image Edge Detection CN\bin\Debug\图像边缘检测.exe
+C:\MalcStudio\Image Edge Detect\Image Edge Detection CN\bin\Debug\图像边缘检测.pdb
+C:\MalcStudio\Image Edge Detect\Image Edge Detection CN\obj\Debug\liyuexi.Properties.Resources.resources
